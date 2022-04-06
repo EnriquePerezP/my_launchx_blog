@@ -15,5 +15,5 @@ Hola, mi nombre es Enrique, actualmente explorer de Launch X
 
 **Angel Enrique Perez Perez** Como anteriormente lo decia me gusta mucho la programacion, me gusta la logica 
 especialmente la de programacion, me gustan las matematicas, la guitarra, el Baquet Ball, me gusta mucho aprender
-y conocer acerca de nuevas tecnologias emergentes  nunca dejar de aprender, todo lo que tenga que ver con la
-tecnologia me encanta!
+y conocer acerca de nuevas tecnologias emergentes, tambien soy de las personas que nunca quiere dejar de aprender, 
+de manera general todo lo que tenga que ver con la tecnologia me encanta!
