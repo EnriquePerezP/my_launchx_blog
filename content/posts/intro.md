@@ -16,5 +16,5 @@ de un desarrollador de software, desde mi perspectiva se basa en los siguientes 
 -Esfuerzo
 -Dedidacion
 
-Trabajar con estos puntos nos posicionaran en un mejor desarrollador de software, por que aunque no 
+Trabajar con estos puntos nos posicionaran como un mejor desarrollador de software, por que aunque no 
 lo parezca tambien es de suma importancia.
