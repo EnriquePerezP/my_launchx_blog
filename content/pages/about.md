@@ -7,15 +7,13 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, mi nombre es Enrique, actualmente explorer de Launch X
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Me gusta mucho la programacion y
+> una de mis metas actualmente es dominar
+> varios lenguajes de programacion, no solo aprenderlos, conocerlos,dominarlos y saberlos usar correctamente.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+**Angel Enrique Perez Perez** Como anteriormente lo decia me gusta mucho la programacion, me gusta la logica 
+especialmente la de programacion, me gustan las matematicas, la guitarra, el Baquet Ball, me gusta mucho aprender
+y conocer acerca de nuevas tecnologias emergentes  nunca dejar de aprender, todo lo que tenga que ver con la
+tecnologia me encanta!
